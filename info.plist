@@ -102,7 +102,7 @@
 		</dict>
 	</array>
 	<key>readme</key>
-	<string>Type "pco" followed by a product name to quickly access Planning Center Online environments</string>
+	<string>Type "pco" followed by a product name to quickly access Planning Center Online environments.</string>
 	<key>uidata</key>
 	<dict>
 		<key>A1B2C345-D678-9E01-2F34-56G789H012I3</key>
@@ -123,7 +123,7 @@
 	<key>userconfigurationconfig</key>
 	<array/>
 	<key>version</key>
-	<string>1.1.0</string>
+	<string>1.2.0</string>
 	<key>webaddress</key>
 	<string>https://planningcenteronline.com</string>
 </dict>
