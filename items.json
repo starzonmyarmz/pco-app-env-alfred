@@ -1,0 +1,182 @@
+[
+  {
+    "imagefile": "home.png",
+    "title": "Home (dev)",
+    "arg": "http://home.pco.test",
+    "subtitle": "Open Home dev environment in your default browser"
+  },
+  {
+    "imagefile": "home.png",
+    "title": "Home (staging)",
+    "arg": "https://home-staging.planningcenteronline.com/",
+    "subtitle": "Open Home staging environment in your default browser"
+  },
+  {
+    "imagefile": "home.png",
+    "title": "Home (prod)",
+    "arg": "https://home.planningcenteronline.com/",
+    "subtitle": "Open Home production environment in your default browser"
+  },
+  {
+    "imagefile": "calendar.png",
+    "title": "Calendar (dev)",
+    "arg": "http://calendar.pco.test",
+    "subtitle": "Open Calendar dev environment in your default browser"
+  },
+  {
+    "imagefile": "calendar.png",
+    "title": "Calendar (staging)",
+    "arg": "https://calendar-staging.planningcenteronline.com/",
+    "subtitle": "Open Calendar staging environment in your default browser"
+  },
+  {
+    "imagefile": "calendar.png",
+    "title": "Calendar (prod)",
+    "arg": "https://calendar.planningcenteronline.com/",
+    "subtitle": "Open Calendar production environment in your default browser"
+  },
+  {
+    "imagefile": "check-ins.png",
+    "title": "Check-ins (dev)",
+    "arg": "http://check-ins.pco.test",
+    "subtitle": "Open Check-ins dev environment in your default browser"
+  },
+  {
+    "imagefile": "check-ins.png",
+    "title": "Check-ins (staging)",
+    "arg": "https://check-ins-staging.planningcenteronline.com/",
+    "subtitle": "Open Check-ins staging environment in your default browser"
+  },
+  {
+    "imagefile": "check-ins.png",
+    "title": "Check-ins (prod)",
+    "arg": "https://check-ins.planningcenteronline.com/",
+    "subtitle": "Open Check-ins production environment in your default browser"
+  },
+  {
+    "imagefile": "giving.png",
+    "title": "Giving (dev)",
+    "arg": "http://giving.pco.test",
+    "subtitle": "Open Giving dev environment in your default browser"
+  },
+  {
+    "imagefile": "giving.png",
+    "title": "Giving (staging)",
+    "arg": "https://giving-staging.planningcenteronline.com/",
+    "subtitle": "Open Giving staging environment in your default browser"
+  },
+  {
+    "imagefile": "giving.png",
+    "title": "Giving (prod)",
+    "arg": "https://giving.planningcenteronline.com/",
+    "subtitle": "Open Giving production environment in your default browser"
+  },
+  {
+    "imagefile": "groups.png",
+    "title": "Groups (dev)",
+    "arg": "http://groups.pco.test",
+    "subtitle": "Open Groups dev environment in your default browser"
+  },
+  {
+    "imagefile": "groups.png",
+    "title": "Groups (staging)",
+    "arg": "https://groups-staging.planningcenteronline.com/",
+    "subtitle": "Open Groups staging environment in your default browser"
+  },
+  {
+    "imagefile": "groups.png",
+    "title": "Groups (prod)",
+    "arg": "https://groups.planningcenteronline.com/",
+    "subtitle": "Open Groups production environment in your default browser"
+  },
+  {
+    "imagefile": "people.png",
+    "title": "People (dev)",
+    "arg": "http://people.pco.test",
+    "subtitle": "Open People dev environment in your default browser"
+  },
+  {
+    "imagefile": "people.png",
+    "title": "People (staging)",
+    "arg": "https://people-staging.planningcenteronline.com/",
+    "subtitle": "Open People staging environment in your default browser"
+  },
+  {
+    "imagefile": "people.png",
+    "title": "People (prod)",
+    "arg": "https://people.planningcenteronline.com/",
+    "subtitle": "Open People production environment in your default browser"
+  },
+  {
+    "imagefile": "publishing.png",
+    "title": "Publishing (dev)",
+    "arg": "http://publishing.pco.test",
+    "subtitle": "Open Publishing dev environment in your default browser"
+  },
+  {
+    "imagefile": "publishing.png",
+    "title": "Publishing (staging)",
+    "arg": "https://publishing-staging.planningcenteronline.com/",
+    "subtitle": "Open Publishing staging environment in your default browser"
+  },
+  {
+    "imagefile": "publishing.png",
+    "title": "Publishing (prod)",
+    "arg": "https://publishing.planningcenteronline.com/",
+    "subtitle": "Open Publishing production environment in your default browser"
+  },
+  {
+    "imagefile": "registrations.png",
+    "title": "Registrations (dev)",
+    "arg": "http://registrations.pco.test",
+    "subtitle": "Open Registrations dev environment in your default browser"
+  },
+  {
+    "imagefile": "registrations.png",
+    "title": "Registrations (staging)",
+    "arg": "https://registrations-staging.planningcenteronline.com/",
+    "subtitle": "Open Registrations staging environment in your default browser"
+  },
+  {
+    "imagefile": "registrations.png",
+    "title": "Registrations (prod)",
+    "arg": "https://registrations.planningcenteronline.com/",
+    "subtitle": "Open Registrations production environment in your default browser"
+  },
+  {
+    "imagefile": "services.png",
+    "title": "Services (dev)",
+    "arg": "http://services.pco.test",
+    "subtitle": "Open Services dev environment in your default browser"
+  },
+  {
+    "imagefile": "services.png",
+    "title": "Services (staging)",
+    "arg": "https://services-staging.planningcenteronline.com/",
+    "subtitle": "Open Services staging environment in your default browser"
+  },
+  {
+    "imagefile": "services.png",
+    "title": "Services (prod)",
+    "arg": "https://services.planningcenteronline.com/",
+    "subtitle": "Open Services production environment in your default browser"
+  },
+  {
+    "imagefile": "accounts.png",
+    "title": "Account Settings (dev)",
+    "arg": "http://accounts.pco.test",
+    "subtitle": "Open Account Settings dev environment in your default browser"
+  },
+  {
+    "imagefile": "accounts.png",
+    "title": "Account Settings (staging)",
+    "arg": "https://accounts-staging.planningcenteronline.com/",
+    "subtitle": "Open Account Settings staging environment in your default browser"
+  },
+  {
+    "imagefile": "accounts.png",
+    "title": "Account Settings (prod)",
+    "arg": "https://accounts.planningcenteronline.com/",
+    "subtitle": "Open Account Settings production environment in your default browser"
+  }
+]
